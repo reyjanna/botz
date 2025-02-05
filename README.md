@@ -22,7 +22,7 @@ This repository hosts an **Aminos AI chatbot** on GitHub Pages, allowing seamles
 
 ## 📌 How It Works
 1. **GitHub Pages** hosts a simple HTML page that loads the Aminos AI chatbot.
-2. The chatbot script <script src="https://app.aminos.ai/js/chat_plugin.js" data-bot-id="44943"></script> is embedded inside `index.html`.
+2. The chatbot script <script src="https://app.aminos.ai/js/chat_plugin.js"data-bot-id="44943"></script> is embedded inside `index.html`.
 3. You can **embed this chatbot in Notion, WordPress, or any other site** by linking to the GitHub Pages URL.
 
 ---
